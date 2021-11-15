@@ -1,4 +1,4 @@
-name: GoGoPowerRangers
+name: GoGoPowerRangers2
 on: workflow_dispatch
 
 jobs:
